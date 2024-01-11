@@ -1,0 +1,5 @@
+should just be a list of usernames separated by carriage returns e.g.
+user1
+user2
+user3
+etc.
